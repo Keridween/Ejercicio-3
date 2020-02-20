@@ -5,7 +5,11 @@ public class Factura {
     public float tipoIva;
     public Estados estado;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {}
 
-    }
+    void cambiarEstado(Estados estado) {}
+
+    float getTotal() {}
+    
+    float getCantidadIva() {}
 }
