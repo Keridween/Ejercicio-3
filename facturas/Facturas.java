@@ -4,5 +4,9 @@ public interface Facturas {
     float getTotal();
     float getCantidadIva();
 
-
+public getTotal(){
+return total:
+}
+public getCantidadIva(){
+return cantidadIva;
 }
